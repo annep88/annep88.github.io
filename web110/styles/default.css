@@ -1,0 +1,30 @@
+body
+{
+  margin: 75px;
+  font-family: 'Arial', serif;
+  color: white;
+  background-color: teal;
+  font-size: 100%;
+  line-height: 150%;
+}
+
+ .indented {
+ list-style-type:none;
+ word-wrap:break-word;
+ padding-left:50px;
+ width: 1000px;}
+ 
+h6
+{
+  font-family: 'Lucida Console', serif;
+}
+h1
+{text-align: center;
+}
+figure
+{text-align: center;
+font-style: italic;
+}
+footer {font-style: italic;}
+	#external-links {text-align: center;}
+	
