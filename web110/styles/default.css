@@ -1,9 +1,9 @@
 body
 {
-  margin: 75px;
-  font-family: 'Arial', serif;
-  color: white;
-  background-color: teal;
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #AFEEEE;
+  background-color: #008080;
   font-size: 100%;
   line-height: 150%;
 }
@@ -14,17 +14,36 @@ body
  padding-left:50px;
  width: 1000px;}
  
+ #local_link {color: #AFEEEE;}
+ 
 h6
 {
-  font-family: 'Lucida Console', serif;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 h1
 {text-align: center;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color: #FFE4F1;
+text-shadow: 2px 1px #e9967a;
 }
+
+.intro_qs {
+color: #FFE4F1;}
+
 figure
 {text-align: center;
 font-style: italic;
 }
+
+#annakayatwins {
+border-radius: 25px;}
+
+
 footer {font-style: italic;}
-	#external-links {text-align: center;}
+
+.external_links {color: #E9967A;}
+	
+div {
+	text-align: center;}
+	
 	
