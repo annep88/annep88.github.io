@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang = "en">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>WEB250 ~ Anna Winter's Awesome Walrus ~ Home</title>
-    <link rel = "stylesheet" type = "text/css" href = "styles/default.css" />  
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
-</head>
-<body>
-<header>
-	<div class="overlay">
-<h1>Anna Winter Ltd.</h1>
-
-		</div>
-</header>
-
-<main>
-<nav id="top">
-	<a class="links" href = "https://annep88.github.io/web250/">Home</a> &nbsp;
-	<a class="links" href = "https://annep88.github.io/web250/introduction250.html">Introduction</a> &nbsp;
-	<a class="links" href = "https://annep88.github.io/web250/contract250.html">Contract</a> &nbsp;
-</nav>
-<h3>Welcome to Anna's Home Page</h3>
-</main>
-
 <footer> 
 <nav>
 <a class="links" href = "https://github.com/annep88" target="_blank">GitHub</a> &nbsp;
@@ -44,5 +19,3 @@
          <img src="images/validation_button_css.gif" alt="Validate CSS" />
        </a>
 </footer>
-</body>
-</html>
