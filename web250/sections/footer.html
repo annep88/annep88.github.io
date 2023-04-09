@@ -10,12 +10,21 @@
 </nav>
 	<em>Designed by Anna Winter Ltd. &copy;2023</em>
        <br>
-       <a href="http://validator.w3.org/check?uri=referer" style = "text-decoration: none">
+      <!-- <a href="http://validator.w3.org/check?uri=referer" style = "text-decoration: none">
           <img src="images/validation_button_html.png" alt="Validate HTML"/>
        </a>
 			 <a href="http://jigsaw.w3.org/css-validator/check/referer" style = "text-decoration: none">
          <img src="images/validation_button_css.gif" alt="Validate CSS"/>
        </a>
+	   -->
+	   <div>
+      <a href={"https://validator.w3.org/check?uri=" + location.href}>
+        <img src={imgLoc + "./images/validation_button_html.png"} alt="Validate Html!" />
+      </a>
+      <a href={"https://jigsaw.w3.org/css-validator/validator?uri=" + location.href}>
+        <img src={imgLoc +"./images/validation_button_css.gif"} alt="Validate CSS!" />
+      </a>
+    </div>
 	   	<script>
 		 document.getElementById("link_html").setAttribute("href", "https://validator.w3.org/check?uri=" + location.href);
 		 document.getElementById("link_css").setAttribute("href", "https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
