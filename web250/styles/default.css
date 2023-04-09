@@ -38,7 +38,7 @@ h1 {
 	font-family: 'Dancing Script', cursive;
 	color: #FFE4F1;
 	text-shadow: 2px 1px #e9967a;
-	font-size: 80px;
+	font-size: 70px;
 	margin: 30px;
 }
 
@@ -79,13 +79,12 @@ footer {
 	line-height: 35px;
 }
 
-dl {
+ul {
 	margin-left: 50px;
 }
 
-dt {
+li {
 	color: #FFE4F1;
-	font-weight: bold;
 	margin-top: 10px;
 }
 
