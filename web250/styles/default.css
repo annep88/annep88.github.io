@@ -59,6 +59,9 @@ h3 {
 	font-size: 1.5em;
 	padding: 30px;
 }
+h6 {
+	text-align: center;
+}
 
 p {
 	width: 75%;
