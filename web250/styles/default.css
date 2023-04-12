@@ -63,8 +63,8 @@ h3 {
 p {
 	width: 75%;
 	margin-left: 40px;
-
 }
+
 figure {
 	text-align: center;
 	font-style: italic;
@@ -81,10 +81,11 @@ footer {
 
 ul {
 	margin-left: 50px;
+	width: 75%;
+	margin-left: 50px;
 }
 
 li {
-	color: #FFE4F1;
 	margin-top: 10px;
 }
 
@@ -111,11 +112,6 @@ a:hover {
 .in_text {
 	color: #AFEEEE;
 	text-decoration: underline;
-}
-
-ul {
-	width: 75%;
-	margin-left: 50px;
 }
 
 #top{
